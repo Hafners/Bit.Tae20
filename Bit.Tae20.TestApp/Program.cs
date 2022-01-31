@@ -10,7 +10,7 @@ namespace Bit.Tae20.TestApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Stefan! Wie geht es dir?");
         }
     }
 }
