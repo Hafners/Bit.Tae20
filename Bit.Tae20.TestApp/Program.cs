@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Dom war hier
 namespace Bit.Tae20.TestApp
 {
     internal class Program
