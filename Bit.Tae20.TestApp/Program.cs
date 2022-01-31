@@ -12,8 +12,8 @@ namespace Bit.Tae20.TestApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Stefan! Wie geht es dir?");
+            Console.WriteLine("Hallo Mark");
             Console.WriteLine("Hallo Nina!");
         }
     }
 }
-
